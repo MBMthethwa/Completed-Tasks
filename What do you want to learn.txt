@@ -1,0 +1,21 @@
+Add in here what you would like to learn to do, our teachers will check this file periodically to see if you've got any new ideas of specific things you want to know about C++.
+
+Add in here if there a specific area you don't understand well or need more help in.
+============
+Hi Masood,
+
+Interview feedback
+==================
+
+Test was good, most of the question i knew. questions was Java Standard Edition (SE) 6 questions.
+I do not remember axactly questions but it was More like the Exam803–SampleQuestions.pdf on my folder. 
+I think I failed an interview because of maybe I am lacking communication skills.(I mean sell myself to an interviewer) I cannot express myself.
+I have to make sure that I know java keyword like why we use static when we declare a
+variable and why are we using threds etc. I think, I passed a test but I want to see my result so that I can know what to improve. 
+I can be glad if I can see my result for a IKM test.
+
+Suggestion
+----------
+
+Mayb we should have a practice before interview so that will be able to sell ourselves to an interviewer. 
+
