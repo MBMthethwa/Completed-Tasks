@@ -1,0 +1,5 @@
+ The minimum of [4, 5, 67, 78, 89, 78, 90, 24] is 4
+ The maximum of [4, 5, 67, 78, 89, 78, 90, 24] is 90
+ The average of [4, 5, 67, 78, 89, 78, 90, 24] is 54
+ The sum of [4, 5, 67, 78, 89, 78, 90, 24] is 435
+ The standard deviation of [4, 5, 67, 78, 89, 78, 90, 24] is 34.7185109128
