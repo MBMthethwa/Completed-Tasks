@@ -1,0 +1,13 @@
+C:\Users\Richard Niescior\Dropbox\Hyperion C# Teaching\C#_Beginners\Task 4 - Control Statements II\Example Programs\NestedLoops\NestedLoops\bin\Debug\NestedLoops.exe.config
+C:\Users\Haschick\Desktop\Hyp\Task 4 - Control Statements II\Example Programs\NestedLoops\nestedloops\bin\Debug\NestedLoops.exe.config
+C:\Users\Haschick\Desktop\Hyp\Task 4 - Control Statements II\Example Programs\NestedLoops\nestedloops\bin\Debug\NestedLoops.exe
+C:\Users\Haschick\Desktop\Hyp\Task 4 - Control Statements II\Example Programs\NestedLoops\nestedloops\bin\Debug\NestedLoops.pdb
+C:\Users\Haschick\Desktop\Hyp\Task 4 - Control Statements II\Example Programs\NestedLoops\nestedloops\obj\Debug\NestedLoops.csprojResolveAssemblyReference.cache
+C:\Users\Haschick\Desktop\Hyp\Task 4 - Control Statements II\Example Programs\NestedLoops\nestedloops\obj\Debug\NestedLoops.exe
+C:\Users\Haschick\Desktop\Hyp\Task 4 - Control Statements II\Example Programs\NestedLoops\nestedloops\obj\Debug\NestedLoops.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Example Programs\NestedLoops\NestedLoops\bin\Debug\NestedLoops.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Example Programs\NestedLoops\NestedLoops\obj\Debug\NestedLoops.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Example Programs\NestedLoops\NestedLoops\obj\Debug\NestedLoops.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Example Programs\NestedLoops\NestedLoops\bin\Debug\NestedLoops.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Example Programs\NestedLoops\NestedLoops\bin\Debug\NestedLoops.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Example Programs\NestedLoops\NestedLoops\obj\Debug\NestedLoops.csprojResolveAssemblyReference.cache

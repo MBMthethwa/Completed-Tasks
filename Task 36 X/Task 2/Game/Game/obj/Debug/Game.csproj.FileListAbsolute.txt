@@ -1,0 +1,6 @@
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 2\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 2\Game\Game\bin\Debug\Game.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 2\Game\Game\bin\Debug\Game.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 2\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 2\Game\Game\obj\Debug\Game.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 2\Game\Game\obj\Debug\Game.pdb

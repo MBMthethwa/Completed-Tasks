@@ -1,0 +1,12 @@
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 36\Task 1\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
