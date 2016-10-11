@@ -1,0 +1,8 @@
+C:\Users\Haschick\Dropbox (Personal)\In Progress\C# Soft Dev\C#\Task 9 - Functions\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Haschick\Dropbox (Personal)\In Progress\C# Soft Dev\C#\Task 9 - Functions\Practice_Tasks\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Triangle\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Triangle\Triangle\obj\Debug\Triangle.pdb

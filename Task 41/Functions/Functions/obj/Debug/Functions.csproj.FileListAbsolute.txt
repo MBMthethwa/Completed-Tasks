@@ -1,0 +1,7 @@
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\C# Software Developer\Task 41\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Functions\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Functions\Functions\obj\Debug\Functions.pdb

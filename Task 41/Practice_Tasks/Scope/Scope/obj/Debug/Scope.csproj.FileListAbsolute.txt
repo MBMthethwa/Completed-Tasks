@@ -1,0 +1,12 @@
+C:\Users\Haschick\Dropbox (Personal)\In Progress\C# Soft Dev\C#\Task 9 - Functions\Practice_Tasks\Scope\Scope\bin\Debug\Scope.exe.config
+C:\Users\Haschick\Dropbox (Personal)\In Progress\C# Soft Dev\C#\Task 9 - Functions\Practice_Tasks\Scope\Scope\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\Haschick\Dropbox (Personal)\In Progress\C# Soft Dev\C#\Task 9 - Functions\Practice_Tasks\Scope\Scope\bin\Debug\Scope.exe
+C:\Users\Haschick\Dropbox (Personal)\In Progress\C# Soft Dev\C#\Task 9 - Functions\Practice_Tasks\Scope\Scope\bin\Debug\Scope.pdb
+C:\Users\Haschick\Dropbox (Personal)\In Progress\C# Soft Dev\C#\Task 9 - Functions\Practice_Tasks\Scope\Scope\obj\Debug\Scope.exe
+C:\Users\Haschick\Dropbox (Personal)\In Progress\C# Soft Dev\C#\Task 9 - Functions\Practice_Tasks\Scope\Scope\obj\Debug\Scope.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Scope\Scope\bin\Debug\Scope.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Scope\Scope\obj\Debug\Scope.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Scope\Scope\obj\Debug\Scope.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Scope\Scope\bin\Debug\Scope.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Scope\Scope\bin\Debug\Scope.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Scope\Scope\obj\Debug\Scope.csprojResolveAssemblyReference.cache

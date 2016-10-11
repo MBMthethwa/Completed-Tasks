@@ -1,0 +1,7 @@
+C:\Users\Haschick\Dropbox (Personal)\In Progress\C# Soft Dev\C#\Task 9 - Functions\Asterix\Asterix\bin\Debug\Asterix.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Asterix\Asterix\bin\Debug\Asterix.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Asterix\Asterix\bin\Debug\Asterix.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Asterix\Asterix\bin\Debug\Asterix.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Asterix\Asterix\obj\Debug\Asterix.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Asterix\Asterix\obj\Debug\Asterix.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 41\Practice_Tasks\Asterix\Asterix\obj\Debug\Asterix.pdb
