@@ -1,0 +1,6 @@
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 2\DecBin\DecBin\bin\Debug\DecBin.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 2\DecBin\DecBin\bin\Debug\DecBin.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 2\DecBin\DecBin\bin\Debug\DecBin.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 2\DecBin\DecBin\obj\Debug\DecBin.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 2\DecBin\DecBin\obj\Debug\DecBin.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 2\DecBin\DecBin\obj\Debug\DecBin.pdb

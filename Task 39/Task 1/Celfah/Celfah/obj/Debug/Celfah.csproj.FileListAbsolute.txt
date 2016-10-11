@@ -1,0 +1,6 @@
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 1\Celfah\Celfah\bin\Debug\Celfah.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 1\Celfah\Celfah\bin\Debug\Celfah.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 1\Celfah\Celfah\bin\Debug\Celfah.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 1\Celfah\Celfah\obj\Debug\Celfah.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 1\Celfah\Celfah\obj\Debug\Celfah.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 39\Task 1\Celfah\Celfah\obj\Debug\Celfah.pdb
