@@ -1,0 +1,21 @@
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\C# to CSD\C# Software Developer\Task 33\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\C# to CSD\C# Software Developer\Task 33\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\C# to CSD\C# Software Developer\Task 33\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\C# to CSD\C# Software Developer\Task 33\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\C# to CSD\C# Software Developer\Task 33\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\C# to CSD\C# Software Developer\Task 33\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\Hyperion Certified Software Developer Microdegree\Task 33 X\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\Hyperion Certified Software Developer Microdegree\Task 33 X\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\Hyperion Certified Software Developer Microdegree\Task 33 X\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

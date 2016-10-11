@@ -1,0 +1,7 @@
+c:\users\programming\documents\visual studio 2013\Projects\InOut\InOut\bin\Debug\InOut.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\Task 1\InOut\InOut\bin\Debug\InOut.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\Task 1\InOut\InOut\bin\Debug\InOut.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\Task 1\InOut\InOut\bin\Debug\InOut.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\Task 1\InOut\InOut\obj\Debug\InOut.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\Task 1\InOut\InOut\obj\Debug\InOut.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 33\Task 1\InOut\InOut\obj\Debug\InOut.pdb
