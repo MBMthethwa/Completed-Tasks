@@ -1,0 +1,6 @@
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 44\schoolChildrenCalculator\schoolChildrenCalculator\bin\Debug\schoolChildrenCalculator.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 44\schoolChildrenCalculator\schoolChildrenCalculator\bin\Debug\schoolChildrenCalculator.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 44\schoolChildrenCalculator\schoolChildrenCalculator\bin\Debug\schoolChildrenCalculator.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 44\schoolChildrenCalculator\schoolChildrenCalculator\obj\Debug\schoolChildrenCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 44\schoolChildrenCalculator\schoolChildrenCalculator\obj\Debug\schoolChildrenCalculator.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 44\schoolChildrenCalculator\schoolChildrenCalculator\obj\Debug\schoolChildrenCalculator.pdb
