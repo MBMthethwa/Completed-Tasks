@@ -1,0 +1,6 @@
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\Task 1\Crap\Crap\bin\Debug\Crap.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\Task 1\Crap\Crap\bin\Debug\Crap.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\Task 1\Crap\Crap\bin\Debug\Crap.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\Task 1\Crap\Crap\obj\Debug\Crap.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\Task 1\Crap\Crap\obj\Debug\Crap.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\Task 1\Crap\Crap\obj\Debug\Crap.pdb

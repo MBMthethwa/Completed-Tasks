@@ -1,0 +1,7 @@
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\C# Software Developer\Task 38\CrapsGame\CrapsGame\bin\Debug\CrapsGame.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\CrapsGame\CrapsGame\bin\Debug\CrapsGame.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\CrapsGame\CrapsGame\bin\Debug\CrapsGame.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\CrapsGame\CrapsGame\bin\Debug\CrapsGame.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\CrapsGame\CrapsGame\obj\Debug\CrapsGame.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\CrapsGame\CrapsGame\obj\Debug\CrapsGame.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 38\CrapsGame\CrapsGame\obj\Debug\CrapsGame.pdb
