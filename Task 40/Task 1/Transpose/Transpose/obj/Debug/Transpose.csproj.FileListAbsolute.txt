@@ -1,0 +1,6 @@
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Task 1\Transpose\Transpose\bin\Debug\Transpose.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Task 1\Transpose\Transpose\bin\Debug\Transpose.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Task 1\Transpose\Transpose\bin\Debug\Transpose.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Task 1\Transpose\Transpose\obj\Debug\Transpose.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Task 1\Transpose\Transpose\obj\Debug\Transpose.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Task 1\Transpose\Transpose\obj\Debug\Transpose.pdb

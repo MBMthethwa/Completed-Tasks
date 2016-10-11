@@ -1,0 +1,7 @@
+C:\Users\Haschick\Dropbox (Personal)\Hyperion Development\MicroDegrees\C# Software Developer\Task 40\Data_II\Data_II\bin\Debug\Data_II.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Data_II\Data_II\bin\Debug\Data_II.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Data_II\Data_II\bin\Debug\Data_II.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Data_II\Data_II\bin\Debug\Data_II.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Data_II\Data_II\obj\Debug\Data_II.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Data_II\Data_II\obj\Debug\Data_II.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 40\Data_II\Data_II\obj\Debug\Data_II.pdb

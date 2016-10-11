@@ -1,0 +1,12 @@
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\bin\Debug\PlayingWithFiles.exe.config
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\bin\Debug\PlayingWithFiles.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\bin\Debug\PlayingWithFiles.pdb
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\obj\Debug\PlayingWithFiles.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\obj\Debug\PlayingWithFiles.exe
+C:\Users\Programming\Dropbox\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\obj\Debug\PlayingWithFiles.pdb
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\bin\Debug\PlayingWithFiles.exe.config
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\bin\Debug\PlayingWithFiles.exe
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\bin\Debug\PlayingWithFiles.pdb
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\obj\Debug\PlayingWithFiles.csprojResolveAssemblyReference.cache
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\obj\Debug\PlayingWithFiles.exe
+C:\Users\masoo\Dropbox (Hyperion Development)\CAPACITI - JHB\Mbali Mthethwa-5095\Certified Software Developer MicroDegree\Task 42\Task 1\PlayingWithFiles\PlayingWithFiles\obj\Debug\PlayingWithFiles.pdb

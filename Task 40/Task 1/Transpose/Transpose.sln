@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transpose", "Transpose\Transpose.csproj", "{1C9603B1-E62F-40B6-9254-F62D872165AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9603B1-E62F-40B6-9254-F62D872165AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9603B1-E62F-40B6-9254-F62D872165AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9603B1-E62F-40B6-9254-F62D872165AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9603B1-E62F-40B6-9254-F62D872165AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
